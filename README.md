@@ -1,4 +1,4 @@
 jdbc-dump
 =========
 
-DB dump tools
+simple DB dump tools
